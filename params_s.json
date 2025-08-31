@@ -1,5 +1,5 @@
 {
   "disable": false,
-  "minVer": false,
-  "ver": "1.0.0"
+  "minVer": true,
+  "ver": "5.0.0"
 }
