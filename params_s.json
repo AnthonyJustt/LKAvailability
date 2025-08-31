@@ -1,6 +1,6 @@
 {
   "disable": false,
-  "minVer": true,
+  "minVer": false,
   "ver": "3.1",
   "showMessage": false,
   "message": "",
