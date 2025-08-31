@@ -1,5 +1,7 @@
 {
   "disable": false,
   "minVer": false,
-  "ver": "1.0.0"
+  "ver": "1.0.0",
+  "message": "",
+  "link": ""
 }
